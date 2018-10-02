@@ -9,11 +9,13 @@
 
 ## Collaborative BioArt Workshop at **Lancaster University, UK** on **Monday 17th to Wednesday 19th December 2018**
 
-This collaborative workshop will bring together scientists from the SynaNET network and professional artists to explore key ideas in neuroscience research, BioArt, diverse Artistic practices influenced by the Life Sciences and different ways of working. The workshop aims to ***DISRUPT*** dogmatic thinking across these disciplines, ***ENCODE*** new approaches and insights through shared interactions and ***CONSOLIDATE*** these ideas through artistic expression.
+This collaborative workshop will bring together scientists from the SynaNET network and professional artists to explore key ideas in neuroscience research, BioArt, diverse artistic practices influenced by the life sciences and different ways of working. The workshop aims to ***DISRUPT*** dogmatic thinking across these disciplines, ***ENCODE*** new approaches and insights through shared interactions and ***CONSOLIDATE*** these ideas through artistic expression.
 
-The workshop will also aim to question assumed narratives of artist as ‘receptors’ and scientists as (neuro?) ’transmitters’ in the context of Science and Art collaboration.
+The workshop will also aim to disrupt assumed narratives of artist as ‘receptors’ and scientists as (neuro?) ’transmitters’ in the context of Science and Art collaboration.
 
-Artists will give insight into their practice, ways of working and the conceptual basis of their work. Scientific demonstrations will give both scientists and artists insight into the theory and practical basis of various approaches in neuroscience research including functional brain imaging, behavioral analysis in model organisms, characterization of the microbiome and other techniques. Through working together, scientists and artists will explore the development of novel approaches across these practices. On the final day there will be a public engagement BioArt event, where scientists and artists will showcase ideas explored and developed during the workshop.
+Artists will give insight into their practice, ways of working and the conceptual basis of their work. Scientific demonstrations will give both scientists and artists insight into the theory and practical basis of various approaches in neuroscience research including functional brain imaging, behavioral analysis in model organisms, characterization of the microbiome and other techniques. Through working together, scientists and artists will explore the development of novel approaches across these practices.
+
+On the final day there will be a public engagement BioArt event, where scientists and artists will start to explore ideas inspired by the interaction.
 
 ## Registration:
 
