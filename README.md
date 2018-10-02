@@ -21,5 +21,5 @@ To apply for the workshop please submit a
  * Letter of motivation 
  * 1 page Curriculum Vitae
  * Letter of support from your supervisor (if you are a PhD student) 
- * Mail this along to <a href="n.dawson1@lancaster.ac.uk?subject=Disrupt, Encode, Consolidate Enquiry&bcc=r.dalziel@lancaster.ac.uk">Dr Neil Dawson and Project Coordinator Ross Dalziel</a>
+ * Mail this along to <a href="mailto:n.dawson1@lancaster.ac.uk?subject=Disrupt, Encode, Consolidate Enquiry&bcc=r.dalziel@lancaster.ac.uk">Dr Neil Dawson and Project Coordinator Ross Dalziel</a>
  
