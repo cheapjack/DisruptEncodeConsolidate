@@ -1,12 +1,13 @@
 # Disrupt:Encode:Consolidate!
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rat_primary_cortical_neuron_culture%2C_deconvolved_z-stack_overlay_%2830614937102%29.jpg/299px-Rat_primary_cortical_neuron_culture%2C_deconvolved_z-stack_overlay_%2830614937102%29.jpg" width=400>
-*Image [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rat_primary_cortical_neuron_culture,_deconvolved_z-stack_overlay_(30614937102).jpg)*
+
+*Image src* <a href="https://commons.wikimedia.org/wiki/File:Rat_primary_cortical_neuron_culture,_deconvolved_z-stack_overlay_(30614937102).jpg">Wikimedia Commons</a>
 
 <img src="media/synaNetLogo.png" width=200>
 <img src="media/LancsACLogo.png" width=200>
 
-Collaborative BioArt Workshop at **Lancaster University, UK** on **Monday 17^th^ to Wednesday 19^th^ December 2018**
+## Collaborative BioArt Workshop at **Lancaster University, UK** on **Monday 17^th^ to Wednesday 19^th^ December 2018**
 
 This collaborative workshop will bring together scientists from the SynaNET network and professional artists to explore key ideas in neuroscience research, BioArt, diverse Artistic practices influenced by the Life Sciences and different ways of working. The workshop aims to ***DISRUPT*** dogmatic thinking across these disciplines, ***ENCODE*** new approaches and insights through shared interactions and ***CONSOLIDATE*** these ideas through artistic expression.
 
