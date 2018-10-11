@@ -9,9 +9,9 @@ title: Call Out
 
 [Image Wikimedia commons](https://commons.wikimedia.org/wiki/File:Rat_primary_cortical_neuron_culture,_deconvolved_z-stack_overlay_(30614937102).jpg)
 
-![Synanet Logo](https://github.com/cheapjack/DisruptEncodeConsolidate/blob/master/media/synaNetLogo.png)
+![Synanet Logo](images/synaNetLogo.png)
 
-![Lancaster University Logo](https://github.com/cheapjack/DisruptEncodeConsolidate/blob/master/media/LancsACLogo.png)
+![Lancaster University Logo](images/LancsACLogo.png)
 
 ## Collaborative BioArt Workshop at **Lancaster University, UK** on **Monday 17th to Wednesday 19th December 2018**
 
