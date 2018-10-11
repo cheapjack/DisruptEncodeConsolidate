@@ -1,7 +1,7 @@
 # Disrupt:Encode:Consolidate!
 
-<img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/LancsACLogo.png" width=200>
-<img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/synaNetLogo.png" width=200>
+<img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/LancsACLogo.png" width="200">
+<img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/synaNetLogo.png" width="200">
 
 ## Collaborative BioArt Workshop at **Lancaster University, UK** on **Monday 17th to Wednesday 19th December 2018**
 
