@@ -7,11 +7,11 @@ title: Call Out
 
 ![Wikimedia image of Rat Neuron](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rat_primary_cortical_neuron_culture%2C_deconvolved_z-stack_overlay_%2830614937102%29.jpg/299px-Rat_primary_cortical_neuron_culture%2C_deconvolved_z-stack_overlay_%2830614937102%29.jpg)
 
-[*Image Wikimedia commons src*](https://commons.wikimedia.org/wiki/File:Rat_primary_cortical_neuron_culture,_deconvolved_z-stack_overlay_(30614937102).jpg)
+[Image Wikimedia commons](https://commons.wikimedia.org/wiki/File:Rat_primary_cortical_neuron_culture,_deconvolved_z-stack_overlay_(30614937102).jpg)
 
-![Synanet Logo](../media/synaNetLogo.png)
+![Synanet Logo](https://github.com/cheapjack/DisruptEncodeConsolidate/blob/master/media/synaNetLogo.png)
 
-![Lancaster University Logo](../media/LancsACLogo.png)
+![Lancaster University Logo](https://github.com/cheapjack/DisruptEncodeConsolidate/blob/master/media/LancsACLogo.png)
 
 ## Collaborative BioArt Workshop at **Lancaster University, UK** on **Monday 17th to Wednesday 19th December 2018**
 
