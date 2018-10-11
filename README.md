@@ -13,10 +13,12 @@ The workshop aims to disrupt assumed narratives of artist as ‘receptors’ and
 Artists are invited to give playful presentations and insights into their practice, ways of working and the conceptual basis of their work. Scientific demonstrations and hands on activity will give both scientists and artists insight into the theory and practical basis of various approaches in neuroscience research including functional brain imaging, behavioral analysis in model organisms, characterization of the microbiome and other techniques. Through working together, scientists and artists will explore the development of novel approaches across these practices.
 
 
-## Registration:
+## For Artists to Take Part
 
-For artists to apply for the workshop please submit a
- * Expression of Interest with an idea for your presentation (no more than A4) 
+To apply for the workshop please submit a
+ * Brief Expression of Interest with an idea for your presentation (no more than A4) no later than Monday 29th October 2018 
  * Brief Curriculum Vitae or links to their work
- * Mail this along to <a href="mailto:r.dalziel@lancaster.ac.uk?subject=Disrupt, Encode, Consolidate Enquiry&bcc=n.dawson1@lancaster.ac.uk">Project Coordinator & PhD Student Ross Dalziel</a>
+ * Mail this to <a href="mailto:r.dalziel@lancaster.ac.uk?subject=Disrupt, Encode, Consolidate Enquiry&bcc=n.dawson1@lancaster.ac.uk">Project Coordinator & PhD Student Ross Dalziel</a>
  
+
+Artists will be shortlisted by Monday 5th November and invited to the workshop. Where possible travel and accomodation will be provided.
