@@ -1,8 +1,3 @@
----
-layout: page
-title: Call Out
----
-
 # Disrupt:Encode:Consolidate!
 
 ![Wikimedia image of Rat Neuron](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rat_primary_cortical_neuron_culture%2C_deconvolved_z-stack_overlay_%2830614937102%29.jpg/299px-Rat_primary_cortical_neuron_culture%2C_deconvolved_z-stack_overlay_%2830614937102%29.jpg)
