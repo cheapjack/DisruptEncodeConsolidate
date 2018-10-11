@@ -5,13 +5,13 @@ title: Call Out
 
 # Disrupt:Encode:Consolidate!
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rat_primary_cortical_neuron_culture%2C_deconvolved_z-stack_overlay_%2830614937102%29.jpg/299px-Rat_primary_cortical_neuron_culture%2C_deconvolved_z-stack_overlay_%2830614937102%29.jpg]
+![Wikimedia image of Rat Neuron](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rat_primary_cortical_neuron_culture%2C_deconvolved_z-stack_overlay_%2830614937102%29.jpg/299px-Rat_primary_cortical_neuron_culture%2C_deconvolved_z-stack_overlay_%2830614937102%29.jpg)
 
-*Image src* <a href="https://commons.wikimedia.org/wiki/File:Rat_primary_cortical_neuron_culture,_deconvolved_z-stack_overlay_(30614937102).jpg">Wikimedia Commons</a>
+[*Image Wikimedia commons src*](https://commons.wikimedia.org/wiki/File:Rat_primary_cortical_neuron_culture,_deconvolved_z-stack_overlay_(30614937102).jpg)
 
-![media/synaNetLogo.png]
+![Synanet Logo](../media/synaNetLogo.png)
 
-![media/LancsACLogo.png]
+![Lancaster University Logo](../media/LancsACLogo.png)
 
 ## Collaborative BioArt Workshop at **Lancaster University, UK** on **Monday 17th to Wednesday 19th December 2018**
 
