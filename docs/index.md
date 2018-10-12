@@ -1,4 +1,5 @@
-# Disrupt:Encode:Consolidate!
+
+# Call for Participants
 
 ## Collaborative BioArt Workshop at **Lancaster University, UK** on **Monday 17th to Wednesday 19th December 2018**
 
@@ -13,7 +14,7 @@ The workshop aims to disrupt assumed narratives of artist as ‘receptors’ and
 Artists are invited to give playful presentations and insights into their practice, ways of working and the conceptual basis of their work. Scientific demonstrations and hands on activity will give both scientists and artists insight into the theory and practical basis of various approaches in neuroscience research including functional brain imaging, behavioral analysis in model organisms, characterization of the microbiome and other techniques. Through working together, scientists and artists will explore the development of novel approaches across these practices.
 
 
-## For Artists to Take Part
+## How To Apply
 
 To apply for the workshop please submit a
  * Brief Expression of Interest with an idea for your presentation (no more than A4) no later than Monday 29th October 2018 
