@@ -17,13 +17,14 @@ Artists are invited to give playful presentations and insights into their practi
 ## How To Apply
 
 To apply for the workshop please submit a
- * Brief Expression of Interest with an idea for your presentation (no more than A4) no later than Monday 29th October 2018 
- * Brief Curriculum Vitae or links to their work
+ * Brief *Expression of Interest* with an idea for presenting your work or practice (no more than A4) no later than **Monday 29th October 2018**
+  * You can focus on a particular project or an idea, involve people in activity, perform, provoke or present slides, media or objects.
+ * Brief *Curriculum Vitae* or links to their work
  * Mail this to <a href="mailto:r.dalziel@lancaster.ac.uk?subject=Disrupt, Encode, Consolidate Enquiry&bcc=n.dawson1@lancaster.ac.uk">Artistic Coordinator & LICA PhD Student Ross Dalziel</a>
  
 
-Artists will be selected by Monday 5th November and invited to the workshop. Travel and accomodation will be provided for selected artists.
+Artists will be selected by **Monday 5th November** and invited to the workshop. Travel and accomodation will be provided for selected artists.
 
-<img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/European-Commission-1.jpg" width="200">
+<img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/European-Commission-1.jpg" width="150">
 
 This workshop is funded by the European Union’s Horizon 2020 research and innovation programme as part of [SynaNET](www.synanet2020.com) under grant agreement number **692340**
