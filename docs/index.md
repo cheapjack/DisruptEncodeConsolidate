@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/space.png" width="50">
 <img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/synaNetLogo.png" width="200">
 
-This collaborative workshop will bring together scientists from the SynaNET network and professional artists to explore key ideas in neuroscience research, BioArt, diverse artistic practices influenced by the life sciences and different ways of working. The workshop aims to ***DISRUPT*** dogmatic thinking across these disciplines, ***ENCODE*** new approaches and insights through shared interactions and ***CONSOLIDATE*** these ideas through artistic expression.
+This collaborative workshop will bring together scientists from the [SynaNET](https://www.synanet2020.com/) network and professional artists to explore key ideas in neuroscience research, BioArt, diverse artistic practices influenced by the life sciences and different ways of working. The workshop aims to ***DISRUPT*** dogmatic thinking across these disciplines, ***ENCODE*** new approaches and insights through shared interactions and ***CONSOLIDATE*** these ideas through artistic expression.
 
 The workshop aims to disrupt assumed narratives of artist as ‘receptors’ and scientists as ’transmitters’ of knowledge in the context of Science and Art collaboration.
 
