@@ -3,6 +3,8 @@
 
 ## Collaborative Art & BioScience Workshop at **Lancaster University, UK** on **Monday 17th to Wednesday 19th December 2018**
 
+<img src="images/hippomouse.png" width="400">
+
 <img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/LancsACLogo.png" width="200">
 <img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/space.png" width="50">
 <img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/synaNetLogo.png" width="200">
