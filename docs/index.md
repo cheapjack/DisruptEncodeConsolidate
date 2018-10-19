@@ -1,7 +1,7 @@
 
 # Call for Artists
 
-## Collaborative Art & BioScience Workshop at **Lancaster University, UK** on **Monday 17th to Wednesday 19th December 2018**
+## Collaborative Art & Bio-science Workshop at **Lancaster University, UK** on **Monday 17th to Wednesday 19th December 2018**
 
 <img src="images/hippomouse.png" width="400">
 
