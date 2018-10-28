@@ -21,7 +21,7 @@ This is a unique temporary haven to share approaches, develop & build relationsh
 
 To apply for the workshop please submit:
 
- * A brief *Expression of Interest* with an idea for presenting your work or practice (no more than A4) no later than **Monday 29th October 2018**
+ * A brief *Expression of Interest* with an idea for presenting your work or practice (no more than A4) no later than midnight **Monday 29th October 2018**
   * You can focus on a particular project or an idea, involve people in activity, perform, provoke or present slides, media or objects.
  * Brief or recent *Curriculum Vitae*, artist Statement or links to their work
  * Mail this to <a href="mailto:r.dalziel@lancaster.ac.uk?subject=Disrupt, Encode, Consolidate Artist Application&bcc=n.dawson1@lancaster.ac.uk,r.dillon@lancaster.ac.uk">Artistic Coordinator & LICA PhD Candidate Ross Dalziel</a>
