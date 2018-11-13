@@ -1,6 +1,4 @@
 
-# Call for Artists
-
 ## Collaborative Art & Bio-science Workshop at **Lancaster University, UK** on **Monday 17th to Wednesday 19th December 2018**
 
 <img src="images/hippomouse.png" width="400">
@@ -17,18 +15,10 @@ Artists are invited to give playful presentations and insights into their practi
 
 This is a unique temporary haven to share approaches, develop & build relationships across the life sciences, arts and humanities. Participants take part in hands on activity exploring both neuroscience and art methodology. 
 
-## How To Apply
+Workshop Applications are now closed
 
-To apply for the workshop please submit:
-
- * A brief *Expression of Interest* with an idea for presenting your work or practice (no more than A4) no later than midnight **Monday 29th October 2018**
-  * You can focus on a particular project or an idea, involve people in activity, perform, provoke or present slides, media or objects.
- * Brief or recent *Curriculum Vitae*, artist Statement or links to their work
- * Mail this to <a href="mailto:r.dalziel@lancaster.ac.uk?subject=Disrupt, Encode, Consolidate Artist Application&bcc=n.dawson1@lancaster.ac.uk,r.dillon@lancaster.ac.uk">Artistic Coordinator & LICA PhD Candidate Ross Dalziel</a>
+* For more information contact <a href="mailto:r.dalziel@lancaster.ac.uk?subject=Disrupt, Encode, Consolidate Information Request">Artistic Coordinator & LICA PhD Candidate Ross Dalziel</a>
  
-
-Artists will be selected by **Monday 5th November** and invited to the workshop. Please note that unfortunately Due to funding restrictions there are no fees available for participation, but all travel, good food, accomodation and a warm Cumbrian welcome will be provided for all participants. Do let us know any support or dietary requirements you might have.
-
 <img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/European-Commission-1.jpg" width="150">
 
 This workshop is funded by the European Union’s Horizon 2020 research and innovation programme as part of [SynaNET](www.synanet2020.com) under grant agreement number **692340**
