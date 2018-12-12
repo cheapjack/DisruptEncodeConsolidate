@@ -6,7 +6,7 @@
 
 ### Schedule
 
-#### Monday 17th December 2018 -- DISRUPT
+### Monday 17th December 2018 -- DISRUPT
 
 |Time|Activity|Location
 |------|------|------
@@ -25,6 +25,7 @@
 |19.30pm| Networking Dinner| Toll House Inn, Lancaster
 
 ### Tuesday 18^th^ December 2018 -- ENCODE\>
+
 |Time|Activity|Location
 |------|------|------
 |8.00|Setup for presenters|LICA foyer/C01
@@ -43,6 +44,7 @@
 |9.00pm onward|After Dinner Collaborations (optional); exploring ideas together|Lancaster House Hotel Bar
 
 ### Wednesday 19th December 2018 - Consolidate
+
 |Time|Activity|Location
 |------|------|-----
 |9.00 - 11.00|ABC of Art & Neuroscience activity for post-graduate Lancaster students Facilitated by artist [Hwa-Young Jung](http://slyrabbit.net)|LICA A36
