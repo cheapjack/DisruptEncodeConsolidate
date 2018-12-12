@@ -60,3 +60,7 @@
 <img src="images/map.png" width="400">
 
 [Full Map](http://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/maps/campus-map.pdf)
+ 
+<img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/European-Commission-1.jpg" width="150">
+
+This workshop is funded by the European Union’s Horizon 2020 research and innovation programme as part of [SynaNET](www.synanet2020.com) under grant agreement number **692340**
