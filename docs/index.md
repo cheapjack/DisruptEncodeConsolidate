@@ -7,15 +7,13 @@
 <img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/space.png" width="50">
 <img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/synaNetLogo.png" width="200">
 
-This collaborative workshop will bring together scientists from the [SynaNET](https://www.synanet2020.com/) network and professional artists to explore key ideas in neuroscience research, BioArt, diverse artistic practices influenced by the life sciences and different ways of working. The workshop aims to ***DISRUPT*** dogmatic thinking across these disciplines, ***ENCODE*** new approaches and insights through shared interactions and ***CONSOLIDATE*** these ideas through artistic expression.
+This collaborative workshop brought together scientists from the [SynaNET](https://www.synanet2020.com/) network and professional artists from across Europe and the UK to explore key ideas in neuroscience research, BioArt and diverse artistic practices influenced by the life sciences and different ways of working. The workshop aimed to ***DISRUPT*** dogmatic thinking across these disciplines, ***ENCODE*** new approaches and insights through shared interactions and ***CONSOLIDATE*** these ideas through artistic expression.
 
-The workshop aims to disrupt assumed narratives of artist as ‘receptors’ and scientists as ’transmitters’ of knowledge in the context of Science and Art collaboration.
+The workshop aimed to disrupt assumed narratives of artist as ‘receptors’ and scientists as ’transmitters’ of knowledge in the context of Science and Art collaboration.
 
-Artists are invited to give playful presentations and insights into their practice, ways of working and the conceptual basis of their work. Scientific demonstrations and hands on activity will give both scientists and artists insight into the theory and practical basis of various approaches in neuroscience research including functional brain imaging, behavioral analysis in model organisms, characterization of the microbiome and other techniques. Through working together, scientists and artists will explore the development of novel approaches across their practice.
+Invited artists gave playful presentations and insights into their practice, ways of working and the conceptual basis of their work. Scientific demonstrations by researchers at Lancaster University Division of BioMedical Life Sciences (BLS) devised hands on activity for both scientists and artists to provide insight into the theory and practical basis of various approaches in neuroscience research. THese included functional brain imaging, behavioural analysis in model organisms, characterisations of the gut-micro-biome-brain interface and other techniques. Through working together, scientists and artists explored the development of novel approaches across their practices.
 
-This is a unique temporary haven to share approaches, develop & build relationships across the life sciences, arts and humanities. Participants take part in hands on activity exploring both neuroscience and art methodology. 
-
-Workshop Applications are now closed
+A unique temporary haven to share approaches, develop & build relationships across the life sciences, arts and humanities. Participants take part in hands on activity exploring both neuroscience and art methodology.
 
 * For more information contact <a href="mailto:r.dalziel@lancaster.ac.uk?subject=Disrupt, Encode, Consolidate Information Request">Artistic Coordinator & LICA PhD Candidate Ross Dalziel</a>
  
