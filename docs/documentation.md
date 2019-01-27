@@ -1,6 +1,6 @@
 # Disrupt > Encode > Consolidate
 
-&#x1F489; &#x1F3A8; &#x1F52C; &#x1F401; &#x1F4C7;
+<h1>&#x1F489; &#x1F3A8; &#x1F52C; &#x1F401; &#x1F4C7;</h1>
 
 <img src="images/slicer.png" width="600">
 <br>
@@ -12,7 +12,7 @@ If you want to know more contact <a href="mailto:r.dalziel@lancaster.ac.   uk?su
 
 
 # Presentations
-&#x1F4CA; &#x1F4BB;
+<h1>&#x1F4CA; &#x1F4BB;</h1>
 
 <img src="images/netting_small.jpg" width="600">
 
@@ -24,7 +24,7 @@ Below you can find information on all DEC presenters and links to their presenta
  * [Dr Rod Dillon](http://www.lancaster.ac.uk/fhm/about-us/people/rod-dillon) - [What Does It Mean to be an Artistic Scientist with a Parasitic Alter Ego?](presentations/RodDillon.pdf)
  * [Tony Hall](http://www.antonyhall.net/) - [RE-Action Lab](presentations/AnthonyHall.pdf)
  * [Sam Meech](http://smeech.co.uk) - [Feedback Form](presentations/SamMeech.pdf)
- * [Jasmine Marker](https://cargocollective.com/mycongarde) - [Matter of Communication](presentations/JasmineMarker.pdf)
+ * [Jasmin Marker](https://cargocollective.com/mycongarde) - [Matter of Communication](presentations/JasminMarker.pdf)
  * [Manoli Moriaty](https://manolimoriaty.com) - [Symbiotic Synergies - Organisation and Mutual Exploitation in Interdisciplinary Collaboration](presentations/ManoliMoriaty.pdf)
  * [Stuart Nolan](http://stuartnolan.com/) - [Mind Readings: 19th century mentalism and emerging neuro-tech](presentations/StuartNolan.pdf)
  * [Xristina Penna](http://xristinapenna.com/) - [Attempts on Post-Representation (multiple drafts) part 2](https://youtu.be/T_u7a_xWEpo)
@@ -32,26 +32,26 @@ Below you can find information on all DEC presenters and links to their presenta
  * [Topicbird (Jasper Meiners and Isabel Paehr)](http://thetopicbird.com/) - [Play Forward EXP\_eriments & EXP\_eriences that question virtual gazes](http://future-perspectives.net/)
 
 
-&#x1F4D6;
+<h1>&#x1F4D6;</h1>
 
 <img src="images/flywatch_small.jpg" width="600">
 
 # Photos
-&#x1F4F7;
+<h1>&#x1F4F7;</h1>
 
 <img src="images/brainwatch_small.jpg" width="600">
 
 Download a [zip](../media/documentation_photos/jpg.zip) of documentation images.
 
 # Publications
-&#x1F4D6;
+<h1>&#x1F4D6;</h1>
 
 Artist [Hwa-Young Jung](http://slyrabbit.net) delivered a workshop to make a prototype publication to try consolidate some of the meetings and inspirations between artist and scientist over the prrogramme. Inspired by
 
 [The ABC of Neuroscience](presentations/ABC.pdf)
 
 # The future
-&#x1F30C;
+<h1>&#x1F30C;</h1>
 
 <img src="images/groupstairs_small.jpg" width="600">
 
