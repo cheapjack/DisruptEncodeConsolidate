@@ -15,16 +15,16 @@
 |10.00 - 11.00|Scientist and Artistic Overviews|Furness Building, [LT 3](https://photospheres.lancaster.ac.uk/photospheres/115)
 |10.00 - 11.00|[Dr Rod Dillon](http://www.lancaster.ac.uk/fhm/about-us/people/rod-dillon), Lancaster University - What Does It Mean to be an Artistic Scientist with a Parasitic Alter Ego? [Sam Meech - Feedback Form](http://smeech.co.uk)|Furness Building, [Lecture Theatre 3](https://photospheres.lancaster.ac.uk/photospheres/115)
 |11.00 - 11.30|Coffee and Networking|Furness Building, Furness Foyer
-|11.30 - 12.30|Artistic and Scientific Overviews [Zarko Alecsic](> [[dd]{.underline}](http://www.zarkoaleksic.co/) - Brain Pictures [Dr Sue Broughton](https://www.staffdirectory.lancaster.ac.uk/staffdirectory/staffprofile.aspx?id=00451489), Lancaster University - Neuroscience and Ageing Research Using the Fruit Fly|Furness LT 3
+|11.30 - 12.30|Artistic and Scientific Overviews [Zarko Alecsic](http://www.zarkoaleksic.com/) - Brain Pictures [Dr Sue Broughton](http://www.lancaster.ac.uk/fhm/about-us/people/susan-broughton), Lancaster University - Neuroscience and Ageing Research Using the Fruit Fly|Furness LT 3
 |12.30 - 14.00|Lunch and Networking|Furness Building, Foyer
 |14.00 - 16.00|Scientific experience of Sandfly and Fruit Fly research|BLS Research Labs|
 |14.00 -- 15.00|Group A; Sandfly, Group B; Fruit Fly|BLS Research Labs
 |15.00 - 16.00|Group B; Sandfly, Group A; Fruit Fly|BLS Research Labs
 |16.00 - 16.30|Coffee and Networking|Furness Building, Foyer
 |16.30 - 17.30|[Topicbird](http://thetopicbird.com/) (Jasper Meiners and Isabel Paehr) - Play Forward EXP\_eriments & EXP\_eriences that question virtual gazes|LEC Teaching Lab B|
-|19.30pm| Networking Dinner| Toll House Inn, Lancaster
+|19.30pm| Networking Dinner| [Toll House Inn](https://www.tollhouseinn.co.uk/), Lancaster
 
-### Tuesday 18^th^ December 2018 -- ENCODE\>
+### Tuesday 18th December 2018 - ENCODE
 
 |Time|Activity|Location
 |------|------|------
@@ -32,7 +32,7 @@
 |09.00 - 9.30|[Xristina Penna](http://xristinapenna.com/) - Attempts on Post-Representation (multiple drafts) part 2|LICA C01
 |9.30 - 10.00|[Manoli Moriaty](https://manolimoriaty.com) - Symbiotic Synergies - Organisation and Mutual Exploitation in Interdisciplinary Collaboration|LICA C01
 |10.00 - 10.30|Coffee & Networking|Furness Building, Foyer
-|10.30 - 12.00|Scientific and Artistic Overview [Dr Neil Dawson](https://www.staffdirectory.lancaster.ac.uk/staffdirectory/staffprofile.aspx?id=00537800), Lancaster University - Preclinical brain imaging: why & how? [Tony Hall](http://www.antonyhall.net/) - \[RE\]Action Lab  [Dr Rachel Rigby](https://www.staffdirectory.lancaster.ac.uk/staffdirectory/staffprofile.aspx?id=00419496), Lancaster University - Characterising the Gut Microbiome|Furness Building, LT 3
+|10.30 - 12.00|Scientific and Artistic Overview [Dr Neil Dawson](http://www.lancaster.ac.uk/fhm/about-us/people/neil-dawson), Lancaster University - Preclinical brain imaging: why & how? [Tony Hall](http://www.antonyhall.net/) - \[RE\]Action Lab  [Dr Rachel Rigby](http://www.lancaster.ac.uk/fhm/about-us/people/rachael-rigby), Lancaster University - Characterising the Gut Microbiome|Furness Building, LT 3
 |12.00 - 13.00|Lunch & Networking|Furness Building, Foyer
 |13.00 - 15.00|Scientific experience: Brain Imaging and Microbiome Characterisation|BLS Research Labs
 |13.00 - 14.00|Group A; Brain Imaging, Group B; Microbiome|BLS Research Labs
@@ -60,7 +60,13 @@
 <img src="images/map.png" width="400">
 
 [Full Map](http://www.lancaster.ac.uk/media/lancaster-university/content-assets/documents/maps/campus-map.pdf)
- 
+
+#### Accomodation
+
+[Lancaster House Hotel](https://englishlakes.co.uk/lancaster-house/)
+
+#### Funders
+
 <img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/European-Commission-1.jpg" width="150">
 
 This workshop is funded by the European Union’s Horizon 2020 research and innovation programme as part of [SynaNET](www.synanet2020.com) under grant agreement number **692340**
