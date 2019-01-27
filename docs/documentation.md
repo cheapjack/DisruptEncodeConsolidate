@@ -10,8 +10,8 @@ The **DEC SynaNet** workshops are complete! We had a whirlwind of presentations,
 
 If you want to know more contact <a href="mailto:r.dalziel@lancaster.ac.   uk?subject=Disrupt, Encode, Consolidate Information Request">Artistic Coordinator Ross Dalziel</a>
 
-
 # Presentations
+
 <h1>&#x1F4CA; &#x1F4BB;</h1>
 
 <img src="images/netting_small.jpg" width="600">
@@ -46,7 +46,7 @@ Download a [zip](../media/documentation_photos/jpg.zip) of documentation images.
 # Publications
 <h1>&#x1F4D6;</h1>
 
-Artist [Hwa-Young Jung](http://slyrabbit.net) delivered a workshop to make a prototype publication to try consolidate some of the meetings and inspirations between artist and scientist over the prrogramme. Inspired by
+Artist [Hwa-Young Jung](http://slyrabbit.net) delivered a workshop to make a prototype publication to try consolidate some of the meetings and inspirations between artist and scientist over the programme.
 
 [The ABC of Neuroscience](presentations/ABC.pdf)
 
