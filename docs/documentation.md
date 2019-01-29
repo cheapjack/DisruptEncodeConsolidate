@@ -9,8 +9,7 @@
 The **DEC SynaNet** workshops are complete! We had a whirlwind of presentations, interactions, good food and conversation, workshops, writing and making. Here are a collection of presentations and prototype publications of our first steps across art practices and neuroscience.
 
 If you want to know more contact <a href="mailto:r.dalziel@lancaster.ac.   uk?subject=Disrupt, Encode, Consolidate Information Request">Artistic Coordinator Ross Dalziel</a>
-
-# Presentations
+<h1>Presentations</h1>
 
 <h1>&#x1F4CA; &#x1F4BB;</h1>
 
