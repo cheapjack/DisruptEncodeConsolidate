@@ -40,7 +40,7 @@ Below you can find information on all DEC presenters and links to their presenta
 
 <img src="images/brainwatch_small.jpg" width="600">
 
-Download a [zip](../media/documentation_photos/jpg.zip) of documentation images.
+Download a [zip](../images/small_images.zip) of documentation images.
 
 # Publications
 <h1>&#x1F4D6;</h1>
