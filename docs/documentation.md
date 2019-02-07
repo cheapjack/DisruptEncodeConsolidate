@@ -3,6 +3,7 @@
 <h1>&#x1F489; &#x1F3A8; &#x1F52C; &#x1F401; &#x1F4C7;</h1>
 
 <img src="images/slicer.png" width="600">
+*Image source: Ross Dalziel, Artist Coordinator*
 <br>
 <br>
 
@@ -14,6 +15,7 @@ If you want to know more contact <a href="mailto:r.dalziel@lancaster.ac.   uk?su
 <h1>&#x1F4CA; &#x1F4BB;</h1>
 
 <img src="images/netting_small.jpg" width="600">
+*Image source: Mark Bentele, LICA Technician, LICA Lancaster University*
 
 Below you can find information on all DEC presenters and links to their presentations
 
@@ -28,19 +30,23 @@ Below you can find information on all DEC presenters and links to their presenta
  * [Stuart Nolan](http://stuartnolan.com/) - [Mind Readings: 19th century mentalism and emerging neuro-tech](presentations/StuartNolan.pdf)
  * [Xristina Penna](http://xristinapenna.com/) - [Attempts on Post-Representation (multiple drafts) part 2](https://youtu.be/T_u7a_xWEpo)
  * [Dr Rachel Rigby](http://www.lancaster.ac.uk/fhm/about-us/people/rachael-rigby) - [Characterising the Gut Microbiome](presentations/RachelRigby.pdf)
- * [Topicbird (Jasper Meiners and Isabel Paehr)](http://thetopicbird.com/) - [Play Forward EXP\_eriments & EXP\_eriences that question virtual gazes](http://future-perspectives.net/)
+ * [Topicbird (Jasper Meiners and Isabel Paehr)](http://thetopicbird.com/) - [Play Forward EXP\_eriments & EXP\_eriences that question virtual gazes](https://www.slideshare.net/secret/AzKGss89ZXRgLN) also their wider [project page is here](http://future-perspectives.net)
+
 
 
 <h1>&#x1F4D6;</h1>
 
-<img src="images/flywatch_small.jpg" width="600">
+<img src="images/Sock_small.jpg" width="600">
+*Image source: Ross Dalziel, Artist Coordinator*
 
 # Photos
 <h1>&#x1F4F7;</h1>
 
 <img src="images/brainwatch_small.jpg" width="600">
+*Image source: Ross Dalziel, Artist Coordinator*
 
 Download a [zip](../images/small_images.zip) of documentation images.
+Please Credit Mark Bentele, LICA Technician.
 
 # Publications
 <h1>&#x1F4D6;</h1>
@@ -53,6 +59,7 @@ Artist [Hwa-Young Jung](http://slyrabbit.net) delivered a workshop to make a pro
 <h1>&#x1F30C;</h1>
 
 <img src="images/groupstairs_small.jpg" width="600">
+*Image source: Ross Dalziel, Artist Coordinator*
 
 Things that emerged from the workshops continue to percolate: watch this space!
 
