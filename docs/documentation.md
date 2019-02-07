@@ -28,7 +28,7 @@ Below you can find information on all DEC presenters and links to their presenta
  * [Jasmin Marker](https://cargocollective.com/mycongarde) - [Matter of Communication](presentations/JasminMarker.pdf)
  * [Manoli Moriaty](https://manolimoriaty.com) - [Symbiotic Synergies - Organisation and Mutual Exploitation in Interdisciplinary Collaboration](presentations/ManoliMoriaty.pdf)
  * [Stuart Nolan](http://stuartnolan.com/) - [Mind Readings: 19th century mentalism and emerging neuro-tech](presentations/StuartNolan.pdf)
- * [Xristina Penna](http://xristinapenna.com/) - [Attempts on Post-Representation (multiple drafts) part 2](https://youtu.be/T_u7a_xWEpo)
+ * [Xristina Penna](http://xristinapenna.com/) - [Attempts on Post-Representation (multiple drafts) part 2](https://youtu.be/wogYBSYRA_g)
  * [Dr Rachel Rigby](http://www.lancaster.ac.uk/fhm/about-us/people/rachael-rigby) - [Characterising the Gut Microbiome](presentations/RachelRigby.pdf)
  * [Topicbird (Jasper Meiners and Isabel Paehr)](http://thetopicbird.com/) - [Play Forward EXP\_eriments & EXP\_eriences that question virtual gazes](https://www.slideshare.net/secret/AzKGss89ZXRgLN) also their wider [project page is here](http://future-perspectives.net)
 
