@@ -3,7 +3,7 @@
 <h1>&#x1F489; &#x1F3A8; &#x1F52C; &#x1F401; &#x1F4C7;</h1>
 
 <img src="images/slicer.png" width="600">
-*Image source: Ross Dalziel, Artist Coordinator*
+<br>*Image source: Ross Dalziel, Artist Coordinator*
 <br>
 <br>
 
@@ -15,7 +15,7 @@ If you want to know more contact <a href="mailto:r.dalziel@lancaster.ac.   uk?su
 <h1>&#x1F4CA; &#x1F4BB;</h1>
 
 <img src="images/netting_small.jpg" width="600">
-*Image source: Mark Bentele, LICA Technician, LICA Lancaster University*
+<br>*Image source: Mark Bentele, LICA Technician, LICA Lancaster University*
 
 Below you can find information on all DEC presenters and links to their presentations
 
@@ -37,15 +37,16 @@ Below you can find information on all DEC presenters and links to their presenta
 <h1>&#x1F4D6;</h1>
 
 <img src="images/Sock_small.jpg" width="600">
-*Image source: Ross Dalziel, Artist Coordinator*
+<br>*Image source: Ross Dalziel, Artist Coordinator*
 
 # Photos
 <h1>&#x1F4F7;</h1>
 
 <img src="images/brainwatch_small.jpg" width="600">
-*Image source: Ross Dalziel, Artist Coordinator*
+<br>*Image source: Ross Dalziel, Artist Coordinator*
 
 Download a [zip](../images/small_images.zip) of documentation images.
+
 Please Credit Mark Bentele, LICA Technician.
 
 # Publications
@@ -59,7 +60,7 @@ Artist [Hwa-Young Jung](http://slyrabbit.net) delivered a workshop to make a pro
 <h1>&#x1F30C;</h1>
 
 <img src="images/groupstairs_small.jpg" width="600">
-*Image source: Ross Dalziel, Artist Coordinator*
+<br>*Image source: Ross Dalziel, Artist Coordinator*
 
 Things that emerged from the workshops continue to percolate: watch this space!
 
