@@ -67,4 +67,4 @@ Things that emerged from the workshops continue to percolate: watch this space!
 
 <img src="https://raw.githubusercontent.com/cheapjack/DisruptEncodeConsolidate/master/media/European-Commission-1.jpg" width="150">
 
-This workshop is funded by the European Union’s Horizon 2020 research and innovation programme as part of [SynaNET](www.synanet2020.com) under grant agreement number **692340**
+This workshop is funded by the European Union’s Horizon 2020 research and innovation programme as part of [SynaNET](http://synanet2020.com) under grant agreement number **692340**
